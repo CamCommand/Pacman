@@ -1,0 +1,33 @@
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\bin\Debug\Pacman.exe
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\bin\Debug\Pacman.pdb
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\bin\Debug\Pacman.xml
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.frm1.resources
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.Resources.resources
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.vbproj.GenerateResource.Cache
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.xml
+C:\Users\cameron.drummond\AppData\Local\Temporary Projects\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.xml
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\bin\Debug\Pacman.xml
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.frm1.resources
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.Resources.resources
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.vbproj.GenerateResource.Cache
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.frm2.resources
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.SplashScreen1.resources
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.xml
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\bin\Debug\Pacman.xml
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.frm1.resources
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.frm2.resources
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.Resources.resources
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.SplashScreen1.resources
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.vbproj.GenerateResource.Cache
+C:\Users\cameron.drummond\Desktop\Visual 2010 Abstracts\Pacman\Pacman\obj\x86\Debug\Pacman.frm3.resources
+C:\Users\cameron.drummond\Desktop\Pacman\Pacman\obj\x86\Debug\Pacman.frm3.resources
